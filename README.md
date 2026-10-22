@@ -1,10 +1,10 @@
 # Vaishnavi | Frontend Developer Portfolio
 
-Welcome to my personal portfolio! This repository showcases my projects, technical skills, and interest in building clean, responsive, and user-friendly web experiences using modern frontend technologies and AI-powered solutions.
+Welcome to my personal portfolio! I enjoy building responsive websites, intuitive user interfaces, and AI-powered applications.
 
 ## 👩‍💻 About Me
 
-I am a B.Tech Computer Science student specializing in Data Science at SRM Institute of Science and Technology. I enjoy developing responsive websites, designing intuitive user interfaces, and exploring AI-powered applications.
+I am a B.Tech Computer Science student specializing in Data Science at SRM Institute of Science and Technology. I am interested in frontend development, UI/UX design, and AI-powered solutions.
 
 ## 🛠️ Skills
 
@@ -16,18 +16,25 @@ I am a B.Tech Computer Science student specializing in Data Science at SRM Insti
 ## 🚀 Featured Projects
 
 ### 1. LawyerAI
-An AI-powered legal query chatbot designed to help users explore legal questions through a simple and user-friendly interface.
+An AI-powered legal query chatbot designed to help users explore legal questions through a user-friendly interface.
+
+
 
 ### 2. Influencery
-A professional platform connecting brands and creators for networking and collaboration, focusing on responsive interfaces and reusable React components.
+A platform connecting brands and creators for networking and collaboration, with a focus on responsive interfaces and reusable React components.
+
+
 
 ### 3. Blinkit Dashboard Design
-A dashboard design inspired by Blinkit, focusing on clear information presentation and an intuitive interface.
+A dashboard design inspired by Blinkit, focused on clear information presentation and intuitive navigation.
+
 
 ### 4. Physiotherapist Website
-A responsive website for a physiotherapist, featuring a clean layout and user-friendly navigation.
+A responsive physiotherapy website featuring a clean layout and user-friendly navigation.
 
-## 🌐 Live Portfolio
+
+
+## 🌐 Personal Portfolio
 
 [Visit My Portfolio](https://vaishnavi14705.github.io/Portfolio/)
 
@@ -35,4 +42,4 @@ A responsive website for a physiotherapist, featuring a clean layout and user-fr
 
 - **GitHub:** [vaishnavi14705](https://github.com/vaishnavi14705)
 
-Thank you for visiting my portfolio!
+Thanks for visiting my portfolio!
